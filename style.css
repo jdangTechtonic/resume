@@ -1,0 +1,52 @@
+body {
+  background-color: tan;
+}
+
+.top-banner {
+  background-color: green;
+  width: 1200px;
+  margin-left: 100px;
+}
+
+.section-divider {
+  background-color: green;
+  height: 5px;
+  width: 1200px;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: Helvetica, serif;
+}
+
+h1 {
+  text-shadow: 3px 2px grey;
+}
+
+.container {
+  margin-left: 100px;
+}
+
+.email {
+  font-style: italic;
+  margin-left: 20px;
+}
+
+.work-experience-title {
+  text-align: left;
+}
+
+
+.position-title {
+  text-align: left;
+}
+
+.employment-date {
+  float: right;
+  margin-right: 150px;
+  text-align: left;
+}
+
+li {
+  font-style: italic;
+}
